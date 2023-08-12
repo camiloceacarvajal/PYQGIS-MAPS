@@ -1,0 +1,2 @@
+# PYQGIS-MAPS
+mapa automatico con PYQGIS-INTERSECCIONES
